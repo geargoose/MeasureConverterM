@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Measure Converter M</string>
+    <string name="number_to_convert">Number to convert</string>
+    <string name="converted_number">Converted number</string>
+    <string name="convert">Convert</string>
+    <string-array name="lengths">
+        <item>Meter</item>
+        <item>Megameter</item>
+        <item>Kilometer</item>
+        <item>Hexameter</item>
+        <item>Decameter</item>
+        <item>Decimeter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+    </string-array>
+</resources>
